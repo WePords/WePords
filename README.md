@@ -1,16 +1,17 @@
-## Hi there 👋
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b6325e18-0cc6-433a-bf89-22d3a6e82292" />## Hi there 👋
 
-<!--
-**WePords/WePords** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tony, a frontend developer who are currently exploring backend and LLM.
 
-Here are some ideas to get you started:
+I'm curious about everything and always exploring 😆
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working with a team of 7 members maintaining the college website.
+
+📫 How to reach me: tonytstark21@gmail.com
+
+My main stack is: Html, tailwind css, react, next.js
+
+⚡ Fun fact:
+       I love listening to music.
+       I enjoy watching movies.
+
+Be grateful for everything!
