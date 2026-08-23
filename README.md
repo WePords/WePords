@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b6325e18-0cc6-433a-bf89-22d3a6e82292" />## Hi there 👋
+## Hi there 👋
 
 I'm Tony, a frontend developer who are currently exploring backend and LLM.
 
